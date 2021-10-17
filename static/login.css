@@ -1,0 +1,138 @@
+  .container{
+    position: relative;
+    top: -50px;
+    left: 80px;
+    bottom: 0;
+    box-shadow:  2px 4px #F7F8F9 ;
+
+}
+
+body{
+  background-color: #F7F8F9;
+}
+.login{
+  border-radius: 7px ;
+
+  position: relative;
+  left:50px;
+  top:50px;
+
+}
+form{
+  background-color:white;
+  border-radius: 7px;
+  padding-bottom: 160px;
+}
+
+h1 {
+  font-family:'Inter',sans-serif;
+color:#FF5454;
+font-size:2.25rem;
+
+padding-top: 30px;
+margin-left: 30px;
+position: relative;
+left:50px;
+top:45px;
+padding-bottom: 25px;
+}
+h4 {
+  position: relative;
+  left:115px;
+  top:20px;
+}
+
+.icons{
+padding-left: 10px;
+padding-right: 10px;
+position: relative;
+left:80px;
+}
+
+.social{
+  position: relative;
+  left:35px;
+  top:40px;
+  align-items: center;
+  margin-bottom:40px;
+}
+
+.form-control{
+
+margin-bottom: 15px;
+width:330px;
+color:black;
+border:2px solid #F6F8FA;
+background-color:#F6F8FA;
+position:relative;
+left:60px;
+top:45px;
+}
+.pass{
+  margin-bottom:20px;
+}
+
+.btn{
+  position: relative;
+  left:70px;
+  top:110px;
+  padding-left: 40px;
+  padding-right: 40px;
+
+}
+.btn-primary{
+border: 2px solid #FF5454;
+background-color:#FF5454;
+padding-left: 30px;
+
+}
+.btn-primary:focus{
+  background-color:#FF5454;
+  border:2px solid #FF5454;
+  outline:white auto 5px;
+}
+.btn-primary:hover{
+background-color:#FF5454;
+border: 2px solid #FF5454;
+}
+.btn-outline-primary{
+  position: relative;
+  left:110px;
+
+border: 1px solid #FF5454;
+color: #FF5454;
+}
+.btn-outline-primary:hover{
+background-color:#FF5454;
+color:white;
+}
+.form-check-input{
+  background-color:#FF5454;
+  position: relative;
+  left:130px;
+  top:50px;
+
+}
+label{
+  margin-left:2px;
+  position: relative;
+  left:130px;
+  top:50px;
+}
+.fgetpass
+{ position: relative;
+  top:90px;
+  left:20px;
+  margin-left:-50px;
+  color:#FF5454;
+
+}
+.aTags{
+  color: #FF5454;
+}
+.image{
+  margin-left:-100px;
+  border-radius: 10px;
+  width:387.167;
+  height:545;
+}
